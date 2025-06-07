@@ -32,6 +32,9 @@
 ### math (수학)
 - GcdTemplate.java : 유클리드 호제법을 이용한 최대공약수 찾기
 
+### cache (캐싱)
+- LRUCacheTemplate.java : LRU 알고리즘
+
 ## 사용법
 - 각 파일에 main 메서드가 포함되어 있어서 바로 실행 가능.
 - 코딩 테스트, 알고리즘 학습, 면접 준비에 활용.
