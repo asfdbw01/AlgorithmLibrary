@@ -8,7 +8,7 @@
 - DijkstraExample.java : 다익스트라 최단거리
 - UnionFindExample.java : 유니온 파인드
 - DFSBacktrackingExample.java : DFS로 조합을 구하는 백트래킹 예제
-
+- BinarySearchTemplate.java : 이분탐색
 
 ### sort (정렬)
 - QuickSortExample.java : 퀵 정렬
