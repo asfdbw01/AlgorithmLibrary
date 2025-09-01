@@ -9,6 +9,7 @@
 - UnionFindExample.java : 유니온 파인드
 - DFSBacktrackingExample.java : DFS로 조합을 구하는 백트래킹 예제
 - BinarySearchTemplate.java : 이분탐색
+- BinaryTreeFromEdges.java : 이진트리 생성
 
 ### sort (정렬)
 - QuickSortExample.java : 퀵 정렬
